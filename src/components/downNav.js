@@ -16,7 +16,7 @@ const Div = {
 const img = {
     height:'30%',
     width:'12%',
-    padding:'10px',
+    padding:'5px',
     alignSelf:'flex-start',
     position:'relative',
     bottom:'40%'
@@ -25,7 +25,7 @@ const img = {
 const imgA = {
     height:'36%',
     width:'20%',
-    padding:'10px',
+    padding:'5px',
     alignSelf:'flex-start',
     position:'relative',
     bottom:'40%'
@@ -34,7 +34,7 @@ const imgA = {
 const imgB = {
     height:'52%',
     width:'22%',
-    padding:'10px',
+    padding:'5px',
     alignSelf:'flex-start',
     position:'relative',
     bottom:'60%'

@@ -31,4 +31,10 @@
     color:grey; 
     font-weight:70;
     align-self:flex-start;
+    margin-bottom:5%;
+
+    @media screen and (max-width: 600px) {
+        margin-bottom:'1%'
+    
+        }
 }
