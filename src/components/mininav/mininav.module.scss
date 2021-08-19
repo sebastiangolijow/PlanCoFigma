@@ -1,0 +1,39 @@
+.Div {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    // align-items:space-between;
+    background-color:#00a0a0;
+    // height:1rem;
+
+    // @media screen and (max-width: 600px) {
+    //     align-items:space-around;   
+    // }
+}
+
+
+.Img  {
+    height:15%;
+    width:25%;
+
+    @media screen and (max-width: 600px) {
+        height:15px;
+        width:20px;
+        margin-right:1px;
+        padding:1px;
+    }
+}
+
+.time  {
+    height:15%;
+    width:25%;
+    margin-top:25px;
+    margin-left:-50px;
+
+    @media screen and (max-width: 600px) {
+        height:5%;
+        width:5%;
+        margin-right:1px;
+        padding:1px;
+    }
+}
