@@ -21,7 +21,7 @@ const img = {
     alignSelf:'flex-start',
     position:'relative',
     bottom:'40%',
-    paddingTop:'4px'
+    paddingTop:'10px'
 }
 
 const imgA = {
@@ -30,7 +30,7 @@ const imgA = {
     alignSelf:'flex-start',
     position:'relative',
     bottom:'40%',
-    paddingTop:'4px'
+    paddingTop:'10px'
 
 }
 
@@ -49,7 +49,7 @@ const imgC = {
     alignSelf:'flex-start',
     position:'relative',
     bottom:'40%',
-    paddingTop:'4px'
+    paddingTop:'10px'
 
 }
 
