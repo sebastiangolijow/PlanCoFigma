@@ -11,32 +11,32 @@ const Div = {
     marginTop:'25px',
     marginBottom:'-20px',
     width:'auto',
-    paddingRight:'8px',
-    paddingLeft:'8px'
+    paddingRight:'10px',
+    paddingLeft:'10px'
 }
 
 const img = {
     height:'30%',
     width:'12%',
-    padding:'5px',
     alignSelf:'flex-start',
     position:'relative',
-    bottom:'40%'
+    bottom:'40%',
+    paddingTop:'4px'
 }
 
 const imgA = {
     height:'36%',
     width:'20%',
-    padding:'5px',
     alignSelf:'flex-start',
     position:'relative',
-    bottom:'40%'
+    bottom:'40%',
+    paddingTop:'4px'
+
 }
 
 const imgB = {
     height:'52%',
     width:'22%',
-    padding:'5px',
     alignSelf:'flex-start',
     position:'relative',
     bottom:'60%'
@@ -46,10 +46,11 @@ const imgB = {
 const imgC = {
     height:'33%',
     width:'15%',
-    padding:'10px',
     alignSelf:'flex-start',
     position:'relative',
-    bottom:'40%'
+    bottom:'40%',
+    paddingTop:'4px'
+
 }
 
 const imgD = {

@@ -13,8 +13,9 @@ const styleDivB = {
     display:'flex',
     flexDirection: 'column',
     borderRadius:'9px',
-    borderWidth:'1px',
     border:'solid',
+    borderWidth:'0.5px',
+
     borderColor:'gray',
     marginRight:'10px',
     marginLeft:'10px',
