@@ -9,7 +9,8 @@ const Div = {
     borderTop:'solid',
     borderColor:'grey',
     marginTop:'25px',
-    marginBottom:'-20px'
+    marginBottom:'-20px',
+    width:'80%'
 }
 
 const img = {
