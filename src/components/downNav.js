@@ -7,6 +7,7 @@ const Div = {
     backgroundColor:'white',
     height:'5rem',
     borderTop:'solid',
+    borderWidth:'0.5px',
     borderColor:'grey',
     marginTop:'25px',
     marginBottom:'-20px',

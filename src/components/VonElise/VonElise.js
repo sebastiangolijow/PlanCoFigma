@@ -81,7 +81,7 @@ export function VonElise() {
             </div>
             <div style={styleDivB}>
                 <h1> Suche Mathe Nachhilfe </h1>
-                <text>
+                <text style={{color:'black'}} >
                    Fur meinem Sohn (8. Klasse). Hat jemand eine Empfehlung?
                 </text>
                 <button className={styles.styleButton}>Helfen</button>
