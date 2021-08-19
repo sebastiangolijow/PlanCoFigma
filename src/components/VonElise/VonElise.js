@@ -42,10 +42,7 @@ const vonH = {
     marginTop:'-10px'
 }
 
-const vonI = {
-    color:'grey',
-    fontWeight:'50',
-}
+
 export function VonElise() {
     return (
         <div style={{display:'flex', flexDirection:'column'}}>

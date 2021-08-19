@@ -11,8 +11,8 @@ const Div = {
     marginTop:'25px',
     marginBottom:'-20px',
     width:'auto',
-    paddingRight:'4px',
-    paddinfLeft:'4px'
+    paddingRight:'8px',
+    paddingLeft:'8px'
 }
 
 const img = {
